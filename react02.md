@@ -55,11 +55,11 @@ const BasicLayout = ({ children }) => {
 export default BasicLayout;
 ```
 
-index.js 
-> App.js 
->> root.js
->>> /pages/todo/IndexPage 
->>>> BasicLayout 
->>>>> BasicMEnu
+>index.js 
+>> App.js 
+>>> root.js
+>>>> /pages/todo/IndexPage 
+>>>>> BasicLayout 
+>>>>>> BasicMenu
 
->>>> TEST
+>>>>> /pages/todo/ListPage (children)
