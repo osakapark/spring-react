@@ -54,7 +54,7 @@ const BasicLayout = ({ children }) => {
 }
 export default BasicLayout;
 ```
-
+## 2.3 구조
 >index.js 
 >> App.js 
 >>> root.js
