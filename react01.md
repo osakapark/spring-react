@@ -36,7 +36,14 @@ module.exports = {
 @tailwind components;
 @tailwind utilities;
 ```
-
+### 1.1.4 index.js
+2번 실행 방지 <StrictMode> 제거
+```javascript
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <App />
+);
+```
 
 ## 1.3 MariaDB
 * install 시 UTF-8  설정
