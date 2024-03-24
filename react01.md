@@ -37,8 +37,9 @@ module.exports = {
 @tailwind utilities;
 ```
 ### 1.1.4 index.js
-2번 실행 방지 <StrictMode> 제거
+2번 실행 방지
 ```javascript
+// <StrictMode> 제거
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <App />
