@@ -11,8 +11,11 @@
 * Tailwind CSS IntelliSense
 
 ### 1.1.3  tailwindcss
-* npm install -D tailwindcss
-* npx tailwindcss init
+```
+npm install -D tailwindcss
+npx tailwindcss init
+npm install axios
+```
 
 ```javascript
 //tailwind.css 
