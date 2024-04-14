@@ -92,6 +92,7 @@ spring.jpa.show-sql=true
 ```
 
 ```gradle
+//build.gradle
 plugins {
 	id 'java'
 	id 'org.springframework.boot' version '3.2.3'
