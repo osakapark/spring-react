@@ -92,7 +92,6 @@ spring.jpa.show-sql=true
 ```
 
 ```gradle
-//build.gradle
 plugins {
 	id 'java'
 	id 'org.springframework.boot' version '3.2.3'
@@ -131,10 +130,12 @@ dependencies {
 	implementation 'org.modelmapper:modelmapper:3.2.0'
 
 	implementation group: 'net.coobird', name: 'thumbnailator', version: '0.4.20'
+	implementation 'org.springframework.boot:spring-boot-starter-security'
 }
 
 tasks.named('test') {
 	useJUnitPlatform()
 }
+
 
 ```
