@@ -140,6 +140,7 @@ dependencies {
 
 	implementation group: 'net.coobird', name: 'thumbnailator', version: '0.4.20'
 	implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation group: 'com.google.code.gson', name: 'gson', version: '2.10.1'
 }
 
 tasks.named('test') {
