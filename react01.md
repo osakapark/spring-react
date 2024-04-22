@@ -88,7 +88,16 @@ spring.datasource.password=1234
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.properties.hibernate.format_sql=true
-spring.jpa.show-sql=true
+
+logging.level.org.hibernate.sql=debug
+#spring.jpa.show-sql=true
+
+spring.servlet.multipart.max-request-size=30MB
+spring.servlet.multipart.max-file-size=10MB
+org.hanspark.upload.path=upload
+
+logging.level.org.springframework.security.web=trace
+
 ```
 
 ```gradle
