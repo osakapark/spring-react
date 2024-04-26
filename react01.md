@@ -15,6 +15,7 @@
 npm install -D tailwindcss
 npx tailwindcss init
 npm install axios
+npm install @reduxjs/toolkit react-redux
 ```
 
 ```javascript
