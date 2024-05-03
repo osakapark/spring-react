@@ -18,6 +18,7 @@ npm install axios
 npm install @reduxjs/toolkit react-redux
 npm install react-cookie
 npm i @tanstack/react-query
+npm i @tanstack/react-query-devtools
 ```
 
 ```javascript
