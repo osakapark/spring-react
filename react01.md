@@ -17,6 +17,7 @@ npx tailwindcss init
 npm install axios
 npm install @reduxjs/toolkit react-redux
 npm install react-cookie
+npm i @tanstack/react-query
 ```
 
 ```javascript
