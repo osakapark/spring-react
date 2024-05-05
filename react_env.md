@@ -7,7 +7,7 @@
 * npm start (프로젝트 폴더에서)
 
 ### 1.1.2 플러그인
-*  Simple React Snippets
+* Simple React Snippets
 * Tailwind CSS IntelliSense
 
 ### 1.1.3  tailwindcss
