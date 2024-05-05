@@ -2,9 +2,11 @@
 
 ## 1.1 ~ 1.2 리액트 환경설정
 ### 1.1.1 생성
-* npx create-react-app +  (프로젝트 이름)
+```
+npx create-react-app +  [프로젝트 이름]
    프로젝트 이름 대문자 금지
- * npm start (프로젝트 폴더에서)
+npm start (프로젝트 폴더에서)
+```
 
 ### 1.1.2 플러그인
 *  Simple React Snippets
