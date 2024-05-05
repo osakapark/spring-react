@@ -43,6 +43,19 @@ module.exports = {
 @tailwind components;
 @tailwind utilities;
 ```
+```react
+function App() {
+return (
+<h1 className="text-3xl font-bold
+underline">
+Hello world!
+</h1>
+);
+}
+export default App;
+```
+
+
 ### 1.1.4 index.js
 2번 실행 방지
 ```javascript
