@@ -88,7 +88,11 @@ Open Jdk
 * Spring Boot Extension Pack
 
 ### 1.4.3  프로젝트 생성
+```
 * artifactid : 소문자
+* package type : jar
+* java version : 17
+```
 
 ```
 * Spring Boot DevTools
