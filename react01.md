@@ -18,7 +18,7 @@ npm start (프로젝트 폴더에서)
 npm install -D tailwindcss
 npx tailwindcss init
 
-mpn install react-router-dom
+npm install react-router-dom
 npm install axios
 npm install @reduxjs/toolkit react-redux
 npm install react-cookie
